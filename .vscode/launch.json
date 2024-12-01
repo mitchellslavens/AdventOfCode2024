@@ -1,0 +1,64 @@
+{
+    "configurations": [
+        {
+            "name": "All",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "all"
+        },
+        {
+            "name": "Day 1",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "day01.day01"
+        },
+        {
+            "name": "Day 2",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "day02.day02"
+        },
+        {
+            "name": "Day 3",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "day03.day03"
+        },
+        {
+            "name": "Day 4",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "day04.day04"
+        },
+        {
+            "name": "Day 5",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "day05.day05"
+        },
+        {
+            "name": "Day 6",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "day06.day06"
+        },
+        {
+            "name": "Day 7",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "day07.day07"
+        },
+        {
+            "name": "Day 8",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "day08.day08"
+        },
+        {
+            "name": "Day 9",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "day09.day09"
+        }
+    ]
+}
